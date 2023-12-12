@@ -1,0 +1,139 @@
+.footer-wrapper{
+    height: 418px;
+    width: 100%;
+    padding: 0px 80px 0px 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #334155;
+
+
+}
+.footer-part1{
+    width: 1280px;
+    height: 324px;
+    border: 0px 0px 1px 0px;
+    padding: 48px 0px 48px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+.Footer-card{
+    width: 173.33px;
+    height: 226px;
+
+}
+.footertitle-wrapper{
+    width: 173.33px;
+    height: 42px;
+    padding: 12px 0px 12px 0px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.footer-title{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17.6px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+}
+.footer-data{
+    width: 173.33px;
+    height: 184px;
+}
+.footeritem-wrapper{
+    height: 46px;
+    width: 173.3px;
+    padding: 12px 0px 12px 0px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.footer-items{
+    height: 22px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #E2E8F0 ;
+    font-family: 'Roboto';
+    display: flex;
+    align-items: center;
+    justify-self:center;
+
+}
+.extra-button{
+    display: flex;
+    align-items: center;
+    justify-self:center;
+    gap: 8px;
+
+}
+
+.footer-part2{
+    width: 1280px;
+    height: 94px;
+    padding: 24px 0px 24px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    gap: 32px;
+}
+.copyright{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22.4px;
+    color: #E2E8F0;
+    height: 22px;
+    width: 105px;
+    font-family: 'Roboto';
+}
+.termsandpolicy{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+    gap: 32px;
+    height: 46px;
+width: 624.34px;
+font-family: 'Roboto';
+}
+.boxes{
+    height: 46px;
+    padding: 12px 0px 12px 0px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.boxes p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #E2E8F0;
+    height: 22px;
+}
+.social-icons{
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    gap: 16px;
+}
+.icon-div{
+    height: 24px;
+    width: 24px;
+}
+
+.playstorepics{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}

@@ -1,0 +1,77 @@
+.navbar-wrapper{
+    height: 96px;
+    width: 100%;
+    padding: 24px 80px 24px 80px;
+    gap: 202px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    color: #FFFFFF;
+    background-color: #0A0F1B;
+}
+.nav-maintext{
+    height: 35px;
+    line-height: 35.2px;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Roboto';
+}
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    height: 48px;
+}
+.item-wrapper{
+ display: flex;
+ flex-direction: row;
+ height: 48px;
+ padding: 12px 8px 12px 8px;
+ gap: 8px;
+
+}
+.nav-items .nav-listitems{
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    font-family: 'Roboto';
+
+}
+.nav-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 48px;
+    gap: 16px;
+    font-family: 'Roboto';
+    
+}
+.nav-button .login-button{
+    color: #FFFFFF;
+    border: none;
+    width: 95px;
+    height: 48px;
+    font-size: 16px;
+    line-height:24px ;
+    letter-spacing: 0.5px;
+    padding: 12px 8px 12px 8px;
+    background-color: #0A0F1B;
+
+}
+.nav-button .demo-button{
+color: #FFFFFF;
+width: 185.5px;
+height: 48px;
+border: 1px solid #475569 ;
+border-radius: 8px;
+background-color:#334155 ;
+font-size: 16px;
+line-height:24px ;
+letter-spacing: 0.5px;
+font-weight:500 ;
+/* padding: 0px 16px 0px 16px; */
+
+}
